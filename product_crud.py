@@ -19,7 +19,7 @@ product_id = 0
 @app.get("/")
 def read_root():
     return {
-        "message": "backend is running"
+        "message": "backend to bhag rha hai"
     }
 
 
